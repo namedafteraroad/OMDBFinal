@@ -1,0 +1,26 @@
+﻿@model OMDBFinal.Models.Movie
+<h2>Search for a Movie</h2>
+<form method="get">
+    <input type="text" name="title" />
+    <button type="submit">Search</button>
+</form>
+@if (Model != null)
+{
+    <div>
+        <h3>@Model.Title (@Model.Year)</h3>
+        <p>Directed by: @Model.Director</p>
+        <p>Plot: @Model.Plot</p>
+        <p>imdb rating: @Model.imdbRating</p>
+        <p>Rated: @Model.Rated</p>
+        <p>Released: @Model.Released</p>
+        <p>Runtime: @Model.Runtime</p>
+        <p>Genre: @Model.Genre</p>
+        <p>Writer: @Model.Writer</p>
+        <p>Actors: @Model.Actors</p>
+        <p>Language: @Model.Language</p>
+        <p>Country: @Model.Country</p>
+        <p>Awards: @Model.Awards</p>
+
+        
+    </div>
+}
