@@ -31,3 +31,4 @@ C:\Users\WDSXF\Desktop\repos\True_Coders_Final_William_Street\OMDBFinal\OMDBFina
 C:\Users\WDSXF\Desktop\repos\True_Coders_Final_William_Street\OMDBFinal\OMDBFinal\obj\Debug\net8.0\OMDBFinal.pdb
 C:\Users\WDSXF\Desktop\repos\True_Coders_Final_William_Street\OMDBFinal\OMDBFinal\obj\Debug\net8.0\OMDBFinal.genruntimeconfig.cache
 C:\Users\WDSXF\Desktop\repos\True_Coders_Final_William_Street\OMDBFinal\OMDBFinal\obj\Debug\net8.0\ref\OMDBFinal.dll
+C:\Users\WDSXF\Desktop\repos\True_Coders_Final_William_Street\OMDBFinal\OMDBFinal\obj\Debug\net8.0\OMDBFinal.sourcelink.json

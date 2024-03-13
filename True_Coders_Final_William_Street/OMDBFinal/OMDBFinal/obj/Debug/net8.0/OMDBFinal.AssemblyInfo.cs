@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OMDBFinal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5aa9d5496631a0c59dbcd4dd7c5f0a64feb5dca")]
 [assembly: System.Reflection.AssemblyProductAttribute("OMDBFinal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OMDBFinal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
